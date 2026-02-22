@@ -1,0 +1,35 @@
+{
+  "name": "GitHub Folder Uploader",
+  "description": "A modern web application to upload entire folders to GitHub repositories",
+  "version": "1.0.0",
+  "author": "Your Name",
+  "repository": "https://github.com/yourusername/github-folder-uploader",
+  "homepage": "https://github.com/yourusername/github-folder-uploader#readme",
+  "keywords": [
+    "github",
+    "uploader",
+    "folder",
+    "repository",
+    "api",
+    "automation",
+    "nextjs",
+    "react",
+    "typescript"
+  ],
+  "technologies": [
+    "Next.js",
+    "React",
+    "TypeScript",
+    "Tailwind CSS",
+    "Framer Motion",
+    "GitHub API"
+  ],
+  "features": [
+    "Folder upload",
+    "Repository creation",
+    "Real-time progress tracking",
+    "Live terminal logs",
+    "Responsive design",
+    "Error handling"
+  ]
+}
